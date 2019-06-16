@@ -3,7 +3,7 @@
 <!-- Configuration Start: Please customize following configuration -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
     
-    <name>留學生活找樂趣</name>
+    <name>樂趣</name>
     <description> 大學生活網站 http://blog.pulipuli.info/</description>
     <author href="http://blog.pulipuli.info" email="yihhueh@gmail.com">yihhueh</author>
     <!-- Configuration End -->
